@@ -2,7 +2,6 @@
   <div id="app">
     <a-config-provider
     :locale="locale"
-    :auto-insert-space-in-button="true"
     >
       <router-view />
     </a-config-provider>
